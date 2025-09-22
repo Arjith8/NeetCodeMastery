@@ -57,6 +57,10 @@
         - Time Taken: 17:15m
         - Self Evaluation: Do it again if u have time for prep
 
+    - Attempt 2:
+        - Implemented a O(kn) solution but seems like the O(n) is also similar in some sense so sorta confused
+        - Time Taken: 6:49m
+
 ### Question 3.
 - Goal: Products of Array Except Self
 - Link: https://neetcode.io/problems/products-of-array-discluding-self?list=neetcode150
@@ -64,6 +68,11 @@
     - Attempt 1:
         - Missing piece in implementation couldnt find it
         - Time Taken: 20:40m
+        - Self Evaluation: Do it again
+
+    - Attempt 2:
+        - Got the solution but did stumble hard....
+        - Time Taken: 15:10m
         - Self Evaluation: Do it again
 
 ### Question 4.
@@ -75,5 +84,17 @@
         - Time Taken: 7:40m
         - Self Evaluation: Understand whats going on
 
+    - Attempt 2:
+        - Failed miserable same place as before
+        - Time Taken: dk
+        - Self Evaluation: Reached further but still not enough
 
+### Question 5.
+- Goal: Longest Consecutive Sequence
+- Link: https://neetcode.io/problems/longest-consecutive-sequence?list=neetcode150
+- Observation:
+    - Attempt 1:
+        - Watched the vid but got the logic
+        - Time Taken: nil
+        - Self Evaluation: Confident I can do similar question next time
 
