@@ -11,38 +11,9 @@
         - Time Taken: 2m
         - Self Evaluation: Not worth doing again
 
-### Question 2.
-- Goal: Valid Anagram
-- Link: https://neetcode.io/problems/is-anagram?list=neetcode150
-- Observation:
-    - Attempt 1:
-        - Too easy(No need to attempt again)
-        - Uses set dict effectively
-        - Time Taken: 3:55m
-        - Self Evaluation: Not worth doing again, wont be asked in interviews
-
-### Question 3.
-- Goal: Two Sum
-- Link: https://neetcode.io/problems/two-integer-sum?list=neetcode150
-- Observation:
-    - Attempt 1:
-        - Too easy(No need to attempt again)
-        - Uses set dict effectively
-        - Time Taken: 3:00m
-        - Self Evaluation: Not worth doing again, wont be asked in interviews
-
 ## Medium Question
 
 ### Question 1.
-- Goal: Group Anagrams
-- Link: https://neetcode.io/problems/anagram-groups?list=neetcode150
-- Observation:
-    - Attempt 1:
-        - Used hints to get the most efficient way
-        - Time Taken: 9:11m
-        - Self Evaluation: Do it again, I could make a O(n*n) solution but not most efficient
-
-### Question 2.
 - Goal: Two Integer Sum II
 - Link: https://neetcode.io/problems/two-integer-sum-ii?list=neetcode150
 - Observation:
@@ -51,6 +22,11 @@
         - Time Taken: 4:20m
         - Self Evaluation: Surprised, but ya still need to do again for prep
 
+    - Attempt 2:
+        - Too easy
+        - Time Taken: dk
+        - Self Evaluation: It took a sec to realise it was 2 pointer but still good, no need to do again if there isnt time
+
 ### Question 3.
 - Goal: 3Sum
 - Link: https://neetcode.io/problems/three-integer-sum?list=neetcode150
@@ -58,6 +34,11 @@
     - Attempt 1:
         - Had a flawed thought process didnt take into consideration all edge cases
         - Time Taken: 17:20m
+        - Self Evaluation: Need to do again
+
+    - Attempt 2:
+        - I did run into edge cases and needed to debug quick while it was fine I will loose confidence in a interview
+        - Time Taken: dk
         - Self Evaluation: Need to do again
 
 ### Question 4.
@@ -79,4 +60,9 @@
         - Progressively found the answer man it took a while and multiple mental iterations
         - Time Taken: 35:30m
         - Self Evaluation: Definitely need to improve time but did find ans on my own
+
+    - Attempt 2:
+        - Nearly Aced it
+        - Time Taken: 15:12m
+        - Self Evaluation: The logic had one fault but nothing a print stmt couldnt fix
 
